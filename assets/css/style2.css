@@ -1,0 +1,12 @@
+.sticker{
+
+    border: 2px solid blue;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    margin-bottom: 10px;
+
+}
+input {
+    width: 200px;
+}
